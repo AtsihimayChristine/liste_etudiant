@@ -1,0 +1,5 @@
+tr[pour='vrai']:hover {
+    background-color: rgb(191, 136, 207);
+    border: 1px solid rgb(191, 136, 207);
+    color: white;
+}
